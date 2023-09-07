@@ -1,0 +1,33 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #555d81;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.title-one{
+    color: #d5dcd1;
+    letter-spacing: .2rem;
+    text-align: center;
+    font-size: 3.4rem;
+    padding: 1rem;
+    text-shadow: 2px 2px 8px rgba(54, 51, 51, 0.351);
+    
+}
+.space-info{
+    background-color: #cfc7d8;
+    width: 50rem;
+    height: 25rem;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 1.4rem;
+    font-size: 2rem;
+    text-align: center;
+}
+.space-info img{
+    padding: 3rem 3rem 0;
+    border-radius: 5rem;
+
+}
